@@ -56,6 +56,11 @@ JS Bean Factory, [1518 Randolph Ave, St Paul, MN](https://maps.app.goo.gl/hksXyV
 **Every Tuesday at 5pm**  
 BlackStack Brewing, [755 Prior Ave N, St Paul, MN](https://maps.app.goo.gl/Yv8qAJT82M5L8rkW9)
 
+Check out our [Chess Club Calendar](https://calendar.google.com/calendar/u/0?cid=M2EwMzY3NjBiY2QwNDRiY2IwNjc2NDExMDk1YzQ0OThkM2ZkYjQyZGUyNmU1ZmFlNDU2NmZhZjZlZjE5N2UwMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+).
+
+Find us on [Facebook](https://www.facebook.com/groups/952866701536303).
+
 ## Get Involved
 
 - Beginners welcome!  
