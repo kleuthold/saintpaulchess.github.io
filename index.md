@@ -4,7 +4,6 @@ title: Saint Paul Chess Club
 ---
 
 <style>
-  /* Simple page styling */
   body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     max-width: 700px;
@@ -25,9 +24,6 @@ title: Saint Paul Chess Club
   a:hover {
     text-decoration: underline;
   }
-  .section {
-    margin-bottom: 2.5rem;
-  }
   .btn {
     display: inline-block;
     background: #004d99;
@@ -40,21 +36,31 @@ title: Saint Paul Chess Club
   .btn:hover {
     background: #003366;
   }
+  footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 3rem;
+  }
 </style>
 
 # Saint Paul Chess Club ♟️
 
-<div class="section">
-  Welcome to the Saint Paul Chess Club — a friendly community where players of all levels come together to enjoy chess.
+Welcome to the **Saint Paul Chess Club**, a friendly community where players of all levels come together to enjoy chess.
 
-  Join us for weekly meetups, tournaments, and fun events.
-</div>
+Join us for weekly meetups, tournaments, and fun events.
 
-<div class="section">
-  ## When & Where
+## When & Where
 
-  **Every Thursday at 6 PM**  
-  Community Center, 123 Main Street, Saint Paul, MN
-</div>
+**Every Sunday at 2pm**  
+JS Bean Factory, [1518 Randolph Ave, St Paul, MN](https://maps.app.goo.gl/hksXyV3XxsGXMvHFA)
 
-<div class="sec
+**Every Tuesday at 5pm**  
+BlackStack Brewing, [755 Prior Ave N, St Paul, MN](https://maps.app.goo.gl/Yv8qAJT82M5L8rkW9)
+
+## Get Involved
+
+- Beginners welcome!  
+- Casual and competitive play  
+
+<footer>© {{ "now" | date: "%Y" }} Saint Paul Chess Enthusiasts</footer>
