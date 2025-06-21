@@ -44,7 +44,7 @@ title: Saint Paul Chess Enthusiasts
   }
 </style>
 
-# Saint Paul Chess Club ♟️
+# Saint Paul Chess Enthusiasts ♟️
 
 Welcome to the **Saint Paul Chess Enthusiasts**, a friendly community where players of all levels come together to enjoy chess.
 
